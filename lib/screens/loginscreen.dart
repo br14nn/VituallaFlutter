@@ -81,7 +81,7 @@ class LoginScreen extends StatelessWidget {
                 const LoginButton(
                   label: "Login with Google",
                   icon: FaIcon(
-                    FontAwesomeIcons.users,
+                    FontAwesomeIcons.solidEnvelope,
                     color: Color.fromARGB(255, 248, 55, 21),
                   ),
                   color: Color.fromARGB(255, 248, 55, 21),
